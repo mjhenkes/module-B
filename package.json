@@ -1,6 +1,6 @@
 {
   "name": "mjhenkes-module-b",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/mjhenkes/module-B#readme",
   "dependencies": {
-    "mjhenkes-module-c": "^1.0.0"
+    "mjhenkes-module-c": "^2.0.0"
+  },
+  "peerDependencies": {
+    "mjhenkes-module-c": "^2.0.0"
   }
 }
