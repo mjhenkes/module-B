@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mjhenkes/module-B/issues"
   },
-  "homepage": "https://github.com/mjhenkes/module-B#readme"
+  "homepage": "https://github.com/mjhenkes/module-B#readme",
+  "dependencies": {
+    "module-c": "https://github.com/mjhenkes/module-C/archive/1.0.0.tar.gz"
+  }
 }
